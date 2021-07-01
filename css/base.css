@@ -1,0 +1,43 @@
+/* BASE STYLE */
+
+
+/* variables */
+:root{
+    --blue: #2d46b9;
+    --white: #ffffff;
+    --black: #000000;
+    --green1: #1ed760;
+    --green2: #616467;
+    --grey1: #c1c3c6;
+    --grey2: #919496;
+    --grey3: #616467;
+    --hero-bg-color: #ffc362;
+    --hero-terms-link: #efefef;
+}
+
+/* overwrite browser defaults*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html, 
+body{
+    height:100;
+}
+
+html{
+    font-size: 62.5%;
+}
+body{
+    font-family: "DM Sans", sans-serif;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+u1
+{
+    list-style: none;
+}
